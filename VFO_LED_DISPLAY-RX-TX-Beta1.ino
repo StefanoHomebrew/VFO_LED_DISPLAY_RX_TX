@@ -1,4 +1,4 @@
-/**
+/**NOTE: This is a BETA1 experimental version for 2 kinds of display
   ******************************************************************************
   * @file    VFO_LED_DISPLAY-RX-TX-Beta1.ino
   * @author  Stefano Homebrew
