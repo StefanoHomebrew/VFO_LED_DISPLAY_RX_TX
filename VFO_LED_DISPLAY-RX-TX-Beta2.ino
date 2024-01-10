@@ -13,7 +13,7 @@
   * a RX/TX Vfo for Radio's Homebrewing 
   * 
   * Library: 
-  * Led_Control https://www.pjrc.com/teensy/td_libs_LedControl.html
+  * Led_Control https://github.com/wayoda/LedControl
   * Rotary Encoder https://github.com/brianlow/Rotary
   * Si5351 https://github.com/etherkit/Si5351Arduino
   * 
